@@ -4,3 +4,6 @@
 [submodule "zshrc"]
 	path = zshrc
 	url = https://github.com/lucky7323/zshrc
+[submodule "simple_vimrc"]
+	path = simple_vimrc
+	url = https://github.com/lucky7323/simple_vimrc
