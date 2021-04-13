@@ -4,3 +4,6 @@
 [submodule "vimrc"]
 	path = vimrc
 	url = https://github.com/lucky7323/vimrc
+[submodule "gitconfig"]
+	path = gitconfig
+	url = https://github.com/lucky7323/gitconfig
